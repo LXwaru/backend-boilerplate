@@ -20,8 +20,6 @@ TC: `pip install sqlalchemy` <br>
 TC: `pip install alembic` <br>
 TC: `pip install pyjwt` <br>
 TC: `pip install "passlib[bcrypt]"` <br>
-TC: `pip install dotenv` <br>
-TC: `pip install dotenv` <br>
 TC: `pip install psycopg2` <br>
 
 <hr>
